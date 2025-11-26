@@ -3,7 +3,7 @@ A simple calculator in Python using Tkinter library (Used to create GUIs) I will
 
 This program was only tested on Windows so it could break on Linux or MacOS
 
-##**How to install python**
+#**How to install python**
 
 Go to the official website of python (python.org)
 
@@ -22,7 +22,7 @@ When you arrive at "Optional Features", select "Tcl/Tk, turtle and IDLE" (turtle
 Finish installation
 
 
-##**How to use the app**
+#**How to use the app**
 
 Open Command Prompt and navigate to the directory where you have cloned/downloaded the repository. Remember to enter in "Code" folder, where the python files are stored
 
