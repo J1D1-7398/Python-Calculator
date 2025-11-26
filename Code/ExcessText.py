@@ -5,7 +5,7 @@ Basic_calc.title("Basic Calculator Input Box")
 Basic_calc.geometry("400x500")
 Basic_calc.config(bg="gray30")
 
-with open("Calculator/ExcessTextStorage.txt", "r") as f:
+with open("ExcessTextStorage.txt", "r") as f:
     txt_content = f.read()
 
 input_box = tk.Text(Basic_calc, font=("Arial", 15))

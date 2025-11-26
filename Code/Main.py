@@ -1,7 +1,7 @@
 import tkinter as tk
 import os
 
-with open("Calculator/ExcessTextStorage.txt", "w") as f:
+with open("ExcessTextStorage.txt", "w") as f:
     f.write("")
 
 # Basic_calc Window setup
@@ -73,9 +73,9 @@ def press_backspace():
     y = x[:-1]
     lb.config(text=y)
 def open_long_text():
-    with open("Calculator/ExcessTextStorage.txt", "w") as f:
+    with open("ExcessTextStorage.txt", "w") as f:
         f.write(lb.cget("text"))
-    os.system("python Calculator/ExcessText.py")
+    os.system("python ExcessText.py")
 def calculate():
     expr = lb.cget("text")
     expr = expr.replace("x", "*").replace("÷", "/")
