@@ -1,2 +1,2 @@
-Python
+Python 3
 Tkinter library (installed during python installation process)
