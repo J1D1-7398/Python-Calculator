@@ -9,7 +9,8 @@ This program was only tested on Windows so it may break on other systems
 
 Check https://github.com/J1D1-7398/Python-Installation-Tutorial for a full tutorial on how to install python.
 
-### Tkinter
+### Tkinter:
+
 ⚠️ Before finishing the installation process do this next steps:
 
 When you arrive at "Optional Features", select "Tcl/Tk, turtle and IDLE" (turtle is not necessary but it comes bundled together)
