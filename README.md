@@ -25,7 +25,10 @@ Finish installation
 
 Open Command Prompt and navigate to the directory where you have cloned/downloaded the repository. Remember to enter in "Code" folder, where the python files are stored
 
-When you have reached the directory in Command Prompt type `python main.py`
+When you have reached the directory in Command Prompt type
+`
+python main.py
+`
 
 ✅ It should work fine!
 
