@@ -9,6 +9,7 @@ This program was only tested on Windows so it may break on other systems
 
 Check https://github.com/J1D1-7398/Python-Installation-Tutorial for a full tutorial on how to install python.
 
+
 ### Tkinter:
 
 ⚠️ Before finishing the installation process do this next steps:
