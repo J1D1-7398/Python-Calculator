@@ -20,7 +20,7 @@ Open Command Prompt and navigate to the directory where you have cloned/download
 
 When you have reached the directory in Command Prompt type `python main.py`
 
-✓ It should work fine!
+✅ It should work fine!
 
 <img width="387" height="519" alt="Screenshot 2025-11-26 190924" src="https://github.com/user-attachments/assets/1cce9afb-eb1f-41c5-8055-885701aad79b" />
 
