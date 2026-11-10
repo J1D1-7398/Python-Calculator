@@ -1,1 +1,0 @@
-#Why do i need to create a file to create a folder? Can't I just create a folder?
